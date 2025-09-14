@@ -1,0 +1,2 @@
+000002, cheese, sharp cheddar, 5.99
+000003, milk, lactose-free milk, 8.98
