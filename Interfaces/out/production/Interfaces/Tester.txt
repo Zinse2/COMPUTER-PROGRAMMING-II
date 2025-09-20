@@ -1,0 +1,4 @@
+Java is fun
+Programming rocks
+cat dog elephant
+short words only
